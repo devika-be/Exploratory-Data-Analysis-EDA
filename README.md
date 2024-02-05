@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis
+## Exploratory-Data-Analysis
 Dive into my GitHub repository dedicated to Exploratory Data Analysis (EDA). Uncover insights from diverse datasets, enhancing your data comprehension skills. Learn visualisation techniques, data preprocessing, and statistical analysis.
 
 ### The typical EDA (Exploratory Data Analysis) process involves the following steps:
